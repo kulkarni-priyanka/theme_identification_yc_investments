@@ -9,14 +9,13 @@ Y Combinator investment from 2005 to 2019 - https://www.kaggle.com/datasets/krzy
 ## References
 
 [1] Ercan Atagün, Bengisu Hartoka, and Ahmet Albayrak. Topic modeling using lda and bert techniques: Teknofest example. In 2021 6th International Conference on Computer
-Science and Engineering (UBMK), pages 660-664, 2021.\\
-[2] David M. Blei, A. Ng, and Michael I. Jordan. Latent dirichlet allocation. J. Mach. Learn.
-Res., 3:993 1022, 2001.\\
+Science and Engineering (UBMK), pages 660-664, 2021.<br />
+[2] David M. Blei, A. Ng, and Michael I. Jordan. Latent dirichlet allocation. J. Mach. Learn.Res., 3:993 1022, 2001.<br />
 [3] Jacob Devlin, Ming-Wei Chang, Kenton Lee, and Kristina Toutanova. BERT: Pre-training of deep bidirectional transformers for language understanding. In Proceedings
 of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers),
-pages 4171-4186, Minneapolis, Minnesota, June 2019. Association for Computational Linguistics.\\
-[4] Krzysztof Piªat. Y combinator investment from 2005 to 2019, Nov 2019.\\
-[5] Michael Röder, Andreas Both, and Alexander Hinneburg. Exploring the space of topic coherence measures. In Proceedings of the eighth ACM international conference on Web search and data mining, pages 399-408, 2015.\\
-[6] Rita Sevastjanova. Explained, Apr 2016.\\
-[7] Steve Shao. Contextual topic identication, Mar 2020.\\
-[8] Shaheen Syed and Marco Spruit. Full-text or abstract? examining topic coherence scores using latent dirichlet allocation. In 2017 IEEE International Conference on Data Science and Advanced Analytics (DSAA), pages 165-174, 2017.\\
+pages 4171-4186, Minneapolis, Minnesota, June 2019. Association for Computational Linguistics.<br />
+[4] Krzysztof Piªat. Y combinator investment from 2005 to 2019, Nov 2019.<br />
+[5] Michael Röder, Andreas Both, and Alexander Hinneburg. Exploring the space of topic coherence measures. In Proceedings of the eighth ACM international conference on Web search and data mining, pages 399-408, 2015.<br />
+[6] Rita Sevastjanova. Explained, Apr 2016.<br />
+[7] Steve Shao. Contextual topic identication, Mar 2020.<br />
+[8] Shaheen Syed and Marco Spruit. Full-text or abstract? examining topic coherence scores using latent dirichlet allocation. In 2017 IEEE International Conference on Data Science and Advanced Analytics (DSAA), pages 165-174, 2017.<br />
